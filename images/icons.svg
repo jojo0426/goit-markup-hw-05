@@ -1,5 +1,6 @@
 <!-- This is an SVG sprite that we added in its entirety and hidden visually. -->
 <svg aria-hidden="true" style="position:absolute;width:0;height:0" xmlns="http://www.w3.org/2000/svg" overflow="hidden">
+
 <defs>
 
 <!-- this is for section 1 icon -->
@@ -179,5 +180,10 @@
     <path d="M2.882 0C1.291 0 0 1.291 0 2.882C0 4.473 1.291 5.791 2.882 5.791C4.473 5.791 5.764 4.473 5.764 2.882C5.763 1.291 4.472 0 2.882 0V0Z" />
     </symbol>
 
+<!-- modal close icon -->
+    <symbol id="icon-close" viewBox="0 0 8 8" >
+    <path d="M8 0.805714L7.19429 0L4 3.19429L0.805714 0L0 0.805714L3.19429 4L0 7.19429L0.805714 8L4 4.80571L7.19429 8L8 7.19429L4.80571 4L8 0.805714Z"/>
+    </symbol>
 
 </defs>
+</svg>
